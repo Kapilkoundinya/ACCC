@@ -6,16 +6,16 @@ I have used the following Libraries/API for creating the map visualizations
 ####Development Enviornment:
 
 #####Front End
-######Google Maps API
-######HTML 5
-######CSS 3
-######JavaScript
-######jQuery
+#######Google Maps API
+#######HTML 5
+#######CSS 3
+#######JavaScript
+#######jQuery
 
 
 #####Framework & Backend
-######Laravel
-######PHP
-######MySQL
-######AdminLTE
-######Carbon
+#######Laravel
+#######PHP
+#######MySQL
+#######AdminLTE
+#######Carbon
